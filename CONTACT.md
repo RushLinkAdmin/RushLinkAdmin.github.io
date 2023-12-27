@@ -4,4 +4,5 @@ permalink: /contact
 
 # Contact Us
 
-rushmedevteam@gmail.com
+For any questions or concerns, please feel free to email us at
+  rushmedevteam@gmail.com
