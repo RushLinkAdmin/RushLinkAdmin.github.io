@@ -1,6 +1,10 @@
 # RushLink Terms of Service
+<!DOCTYPE html>
+<html>
+<body>
 
-Terms of Service
+<p>
+	Terms of Service
 
 Rushlink builds technologies and services that enable college students and other members of groups  to connect with each other and build communities. These Terms govern your use of Rushlink and the other products, features, apps, services, technologies, and software we offer or may offer (the Products), except where we expressly state that separate terms (and not these) apply. These Products are provided to you by Rushlink LLC.
 
@@ -210,3 +214,6 @@ Do not change the name of your group or event in a manner that significantly alt
 
 Accountability
 The Admin(s) are solely accountable for the content on their group and event page. Admin(s) must ensure that any promotions, and other content appearing on their group page complies with our Terms, including community standards, as well as all applicable laws, regulations and rules. You will only promote events that comply with all local and Federal rules, regulations and laws. Rushlink will not audit your compliance with such rules, regulations and laws. As such you agree that you are solely responsible for same. Accordingly, Rushlink also disavows any and all responsibility for what happens or does not happen at your event or within your organization/group. Finally, the Admins and each member or prospective member of their Group agree to (a) fully release Rushlink from liability, and (b) acknowledge that any promotion and content communicated through Rushlink as well as any events held by Groups who are on Rushlink, are in any way sponsored, endorsed, or affiliated with Rushlink.   
+</p>
+</body>
+</html>
